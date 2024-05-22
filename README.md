@@ -1,4 +1,3 @@
 # kp-challenge
 Pratices
-live link: <a href="https://yokiieditz.github.io/kp-challenge/"> website </a>
-https://yokiieditz.github.io/kp-challenge/
+live link: https://yokiieditz.github.io/kp-challenge/
